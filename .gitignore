@@ -1,3 +1,7 @@
 data/train.csv
 *.exe
 sarimax
+sarimax_a
+sarimax_b
+sarimax_c
+sarimax_d
